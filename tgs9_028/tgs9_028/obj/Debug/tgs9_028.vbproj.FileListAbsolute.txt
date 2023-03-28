@@ -1,0 +1,14 @@
+C:\Users\akbar\Desktop\tgs9_028\tgs9_028\obj\Debug\tgs9_028.vbproj.AssemblyReference.cache
+C:\Users\akbar\Desktop\tgs9_028\tgs9_028\obj\Debug\tgs9_028.vbproj.GenerateResource.cache
+C:\Users\akbar\Desktop\tgs9_028\tgs9_028\obj\Debug\tgs9_028.vbproj.CoreCompileInputs.cache
+C:\Users\akbar\Desktop\tgs9_028\tgs9_028\bin\Debug\tgs9_028.exe.config
+C:\Users\akbar\Desktop\tgs9_028\tgs9_028\bin\Debug\tgs9_028.exe
+C:\Users\akbar\Desktop\tgs9_028\tgs9_028\bin\Debug\tgs9_028.pdb
+C:\Users\akbar\Desktop\tgs9_028\tgs9_028\bin\Debug\tgs9_028.xml
+C:\Users\akbar\Desktop\tgs9_028\tgs9_028\obj\Debug\tgs9_028.Form1.resources
+C:\Users\akbar\Desktop\tgs9_028\tgs9_028\obj\Debug\tgs9_028.frmTimmy.resources
+C:\Users\akbar\Desktop\tgs9_028\tgs9_028\obj\Debug\tgs9_028.frmTomy.resources
+C:\Users\akbar\Desktop\tgs9_028\tgs9_028\obj\Debug\tgs9_028.Resources.resources
+C:\Users\akbar\Desktop\tgs9_028\tgs9_028\obj\Debug\tgs9_028.exe
+C:\Users\akbar\Desktop\tgs9_028\tgs9_028\obj\Debug\tgs9_028.xml
+C:\Users\akbar\Desktop\tgs9_028\tgs9_028\obj\Debug\tgs9_028.pdb
