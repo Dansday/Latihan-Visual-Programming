@@ -1,0 +1,12 @@
+C:\Users\akbar\source\repos\028_tgs6\028_tgs6\bin\Debug\028_tgs6.exe.config
+C:\Users\akbar\source\repos\028_tgs6\028_tgs6\bin\Debug\028_tgs6.exe
+C:\Users\akbar\source\repos\028_tgs6\028_tgs6\bin\Debug\028_tgs6.pdb
+C:\Users\akbar\source\repos\028_tgs6\028_tgs6\bin\Debug\028_tgs6.xml
+C:\Users\akbar\source\repos\028_tgs6\028_tgs6\obj\Debug\028_tgs6.vbproj.AssemblyReference.cache
+C:\Users\akbar\source\repos\028_tgs6\028_tgs6\obj\Debug\_028_tgs6.Form1.resources
+C:\Users\akbar\source\repos\028_tgs6\028_tgs6\obj\Debug\_028_tgs6.Resources.resources
+C:\Users\akbar\source\repos\028_tgs6\028_tgs6\obj\Debug\028_tgs6.vbproj.GenerateResource.cache
+C:\Users\akbar\source\repos\028_tgs6\028_tgs6\obj\Debug\028_tgs6.vbproj.CoreCompileInputs.cache
+C:\Users\akbar\source\repos\028_tgs6\028_tgs6\obj\Debug\028_tgs6.exe
+C:\Users\akbar\source\repos\028_tgs6\028_tgs6\obj\Debug\028_tgs6.xml
+C:\Users\akbar\source\repos\028_tgs6\028_tgs6\obj\Debug\028_tgs6.pdb
