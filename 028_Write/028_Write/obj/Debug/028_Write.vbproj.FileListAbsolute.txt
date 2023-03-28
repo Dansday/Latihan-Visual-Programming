@@ -1,0 +1,12 @@
+C:\Users\akbar\source\repos\028_Write\028_Write\bin\Debug\028_Write.exe.config
+C:\Users\akbar\source\repos\028_Write\028_Write\bin\Debug\028_Write.exe
+C:\Users\akbar\source\repos\028_Write\028_Write\bin\Debug\028_Write.pdb
+C:\Users\akbar\source\repos\028_Write\028_Write\bin\Debug\028_Write.xml
+C:\Users\akbar\source\repos\028_Write\028_Write\obj\Debug\028_Write.vbproj.AssemblyReference.cache
+C:\Users\akbar\source\repos\028_Write\028_Write\obj\Debug\_028_Write.Form1.resources
+C:\Users\akbar\source\repos\028_Write\028_Write\obj\Debug\_028_Write.Resources.resources
+C:\Users\akbar\source\repos\028_Write\028_Write\obj\Debug\028_Write.vbproj.GenerateResource.cache
+C:\Users\akbar\source\repos\028_Write\028_Write\obj\Debug\028_Write.vbproj.CoreCompileInputs.cache
+C:\Users\akbar\source\repos\028_Write\028_Write\obj\Debug\028_Write.exe
+C:\Users\akbar\source\repos\028_Write\028_Write\obj\Debug\028_Write.xml
+C:\Users\akbar\source\repos\028_Write\028_Write\obj\Debug\028_Write.pdb
