@@ -1,0 +1,12 @@
+C:\Users\akbar\source\repos\tgs8_028\tgs8_028\bin\Debug\tgs8_028.exe.config
+C:\Users\akbar\source\repos\tgs8_028\tgs8_028\bin\Debug\tgs8_028.exe
+C:\Users\akbar\source\repos\tgs8_028\tgs8_028\bin\Debug\tgs8_028.pdb
+C:\Users\akbar\source\repos\tgs8_028\tgs8_028\bin\Debug\tgs8_028.xml
+C:\Users\akbar\source\repos\tgs8_028\tgs8_028\obj\Debug\tgs8_028.vbproj.AssemblyReference.cache
+C:\Users\akbar\source\repos\tgs8_028\tgs8_028\obj\Debug\tgs8_028.Form1.resources
+C:\Users\akbar\source\repos\tgs8_028\tgs8_028\obj\Debug\tgs8_028.Resources.resources
+C:\Users\akbar\source\repos\tgs8_028\tgs8_028\obj\Debug\tgs8_028.vbproj.GenerateResource.cache
+C:\Users\akbar\source\repos\tgs8_028\tgs8_028\obj\Debug\tgs8_028.vbproj.CoreCompileInputs.cache
+C:\Users\akbar\source\repos\tgs8_028\tgs8_028\obj\Debug\tgs8_028.exe
+C:\Users\akbar\source\repos\tgs8_028\tgs8_028\obj\Debug\tgs8_028.xml
+C:\Users\akbar\source\repos\tgs8_028\tgs8_028\obj\Debug\tgs8_028.pdb
